@@ -1,0 +1,23 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "This is a simple slackbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanterzea/slackbot.git"
+  },
+  "author": "Terzea Bogdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdanterzea/slackbot/issues"
+  },
+  "homepage": "https://github.com/bogdanterzea/slackbot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "slackbots": "^1.2.0"
+  }
+}
