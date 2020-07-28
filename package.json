@@ -1,5 +1,5 @@
 {
-  "name": "slackbot",
+  "name": "firstbot",
   "version": "1.0.0",
   "description": "This is a simple slackbot",
   "main": "index.js",
@@ -11,13 +11,13 @@
     "url": "git+https://github.com/bogdanterzea/slackbot.git"
   },
   "author": "Terzea Bogdan",
-  "license": "MIT", 
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bogdanterzea/slackbot/issues"
   },
   "homepage": "https://github.com/bogdanterzea/slackbot#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "slackbots": "^1.2.0"
+    "slackbots": "^1.1.0"
   }
 }
